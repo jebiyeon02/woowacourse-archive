@@ -35,10 +35,13 @@
 | 로또 Step 1        | [PR-443](https://github.com/woowacourse/javascript-lotto/pull/443)     |
 | 로또 Step 2        | [PR-461](https://github.com/woowacourse/javascript-lotto/pull/461)     |
 
-### 스터디
+### 원정대 활동
+-  TDD 원정대
 
 ## 🖋 블로그
 
 | 순번 | 포스트                                                                                                                                                                                                         |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-| 1    | [우테코 8기 최종합격 후기](https://velog.io/@jhje5595/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B5%9C%EC%A2%85%ED%95%A9%EA%B2%A9)                  
+| 1    | [우테코 8기 최종합격 후기](https://velog.io/@jhje5595/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B5%9C%EC%A2%85%ED%95%A9%EA%B2%A9)   
+| 1    | [TDD 원정대 후기](https://velog.io/@jhje5595/TDD-%EC%9B%90%EC%A0%95%EB%8C%80-%ED%9B%84%EA%B8%B0)  
+
