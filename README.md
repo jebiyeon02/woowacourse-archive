@@ -34,6 +34,7 @@
 | 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-119](https://github.com/woowacourse/gemini-canvas-mission/pull/119)     |
 | 로또 Step 1        | [PR-443](https://github.com/woowacourse/javascript-lotto/pull/443)     |
 | 로또 Step 2        | [PR-461](https://github.com/woowacourse/javascript-lotto/pull/461)     |
+| TS와 학습법 튜닝하기       | [PR-24](https://github.com/woowacourse/ts-and-learning/pull/24)     |
 
 ### 원정대 활동
 -  TDD 원정대
