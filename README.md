@@ -39,6 +39,7 @@
 | 영화 리뷰 Step 2        | [PR-295](https://github.com/woowacourse/javascript-movie-review/pull/295)     |
 ### 원정대 활동
 -  TDD 원정대
+-  브라우저 렌더링 원정대
 
 ## 🖋 블로그
 
