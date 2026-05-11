@@ -58,7 +58,7 @@
 
 
 ### 원정대 활동
--  React 렌더링 원정대
+-  [React 렌더링 원정대](https://github.com/orgs/Woowa-React/repositories)
 
 ## 🖋 블로그
 
