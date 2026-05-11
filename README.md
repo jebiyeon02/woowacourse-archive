@@ -69,4 +69,4 @@
 | 3    | [JS의 실행 컨텍스트](https://velog.io/@jhje5595/JS%EC%9D%98-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)  
 | 4    | [이래도 Fragment를 쓰지 않겠다고?](https://velog.io/@jhje5595/%EC%9D%B4%EB%9E%98%EB%8F%84-Fragment%EB%A5%BC-%EC%93%B0%EC%A7%80-%EC%95%8A%EA%B2%A0%EB%8B%A4%EA%B3%A0)  
 | 5    | [이벤트 전파](https://velog.io/@jhje5595/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%84%ED%8C%8C)  
-
+| 6    | [렌더 트리는 실존하는 것일까? (CRP와 실제 Blink의 차이)](https://velog.io/@jhje5595/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)  
