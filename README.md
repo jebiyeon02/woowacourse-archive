@@ -55,6 +55,7 @@
 | ------------------ | ---------------------------------------------------------------- |
 | 페이먼츠 Step1      | [PR-519](https://github.com/woowacourse/react-payments/pull/519)     |
 | 페이먼츠 Step2      | [PR-529](https://github.com/woowacourse/react-payments/pull/529)     |
+| 페이먼츠 Step3      | [PR-559](https://github.com/woowacourse/react-payments/pull/559)     |
 
 
 ### 원정대 활동
