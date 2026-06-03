@@ -56,6 +56,9 @@
 | 페이먼츠 Step1      | [PR-519](https://github.com/woowacourse/react-payments/pull/519)     |
 | 페이먼츠 Step2      | [PR-529](https://github.com/woowacourse/react-payments/pull/529)     |
 | 페이먼츠 Step3      | [PR-559](https://github.com/woowacourse/react-payments/pull/559)     |
+| 장바구니 Step1(BE)      | [PR-24](https://github.com/woowacourse/shopping-cart-full-stack/pull/24)     |
+| 장바구니 래팩토링(FE)     | [PR-3](https://github.com/woowacourse/shopping-cart-refactoring/pull/3)     |
+
 
 
 ### 원정대 활동
