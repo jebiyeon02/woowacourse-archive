@@ -50,7 +50,6 @@
 - React 컴포넌트 설계부터 Express REST API까지, 하나의 기능을 UI에서 서버까지 수직으로 관통하는 풀스택 개발 사이클을 익힌다.
 
 ### 미션 기록
-
 | 미션                | PR & Reviews                                                     |
 | ------------------ | ---------------------------------------------------------------- |
 | 페이먼츠 Step1      | [PR-519](https://github.com/woowacourse/react-payments/pull/519)     |
@@ -59,12 +58,14 @@
 | 장바구니 Step1(BE)      | [PR-24](https://github.com/woowacourse/shopping-cart-full-stack/pull/24)     |
 | 장바구니 래팩토링(FE)     | [PR-3](https://github.com/woowacourse/shopping-cart-refactoring/pull/3)     |
 | 장바구니 Step2(FE)      | [PR-47](https://github.com/woowacourse/shopping-cart-full-stack/pull/47)     |
-
-
+| 장바구니 Step3(FE)      | [PR-55](https://github.com/woowacourse/shopping-cart-full-stack/pull/55)     |
+| 장바구니 Step4(BE/FE)      | [PR-104](https://github.com/woowacourse/shopping-cart-full-stack/pull/104)     |
 
 
 ### 원정대 활동
 -  [React 렌더링 원정대](https://github.com/orgs/Woowa-React/repositories)
+-  useEffect
+-  번들링
 
 ## 🖋 블로그
 
