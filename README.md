@@ -77,3 +77,5 @@
 | 4    | [이래도 Fragment를 쓰지 않겠다고?](https://velog.io/@jhje5595/%EC%9D%B4%EB%9E%98%EB%8F%84-Fragment%EB%A5%BC-%EC%93%B0%EC%A7%80-%EC%95%8A%EA%B2%A0%EB%8B%A4%EA%B3%A0)  
 | 5    | [이벤트 전파](https://velog.io/@jhje5595/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%84%ED%8C%8C)  
 | 6    | [렌더 트리는 실존하는 것일까? (CRP와 실제 Blink의 차이)](https://velog.io/@jhje5595/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)  
+| 7    | [Props Drilling 해소하기](https://velog.io/@jhje5595/Props-Drilling-%ED%95%B4%EC%86%8C%ED%95%98%EA%B8%B0) 
+| 8    | [성급한 추상화를 매우 싫어하는 사람의 Layout Component](https://velog.io/@jhje5595/%EC%84%B1%EA%B8%89%ED%95%9C-%EC%B6%94%EC%83%81%ED%99%94AHA%EB%A5%BC-%EB%A7%A4%EC%9A%B0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-Layout-Component) 
