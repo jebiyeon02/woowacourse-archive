@@ -37,6 +37,7 @@
 | TS와 학습법 튜닝하기       | [PR-24](https://github.com/woowacourse/ts-and-learning/pull/24)     |
 | 영화 리뷰 Step 1        | [PR-283](https://github.com/woowacourse/javascript-movie-review/pull/283)     |
 | 영화 리뷰 Step 2        | [PR-295](https://github.com/woowacourse/javascript-movie-review/pull/295)     |
+
 ### 원정대 활동
 -  TDD 원정대
 -  브라우저 렌더링 원정대
@@ -66,6 +67,10 @@
 -  [React 렌더링 원정대](https://github.com/orgs/Woowa-React/repositories)
 -  useEffect
 -  번들링
+
+### 스터디
+- [React Hook 10일 챌린지] (https://github.com/woowacourse-study/2026-fe-react-api)
+
 
 ## 🖋 블로그
 
