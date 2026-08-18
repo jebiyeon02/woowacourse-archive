@@ -69,7 +69,7 @@
 -  번들링
 
 ### 스터디
-- [React Hook 10일 챌린지] (https://github.com/woowacourse-study/2026-fe-react-api)
+- [React Hook 10일 챌린지](https://github.com/woowacourse-study/2026-fe-react-api)
 
 
 ## 🖋 블로그
