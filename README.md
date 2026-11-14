@@ -44,7 +44,7 @@
 
 ##  🪾 레벨2 - AI, TDD
 
-> 2026.04.28 ~ ing
+> 2026.04.28 ~ 2026.06.26
 
 ### 레벨 목표
 
@@ -71,6 +71,41 @@
 ### 스터디
 - [React Hook 10일 챌린지](https://github.com/woowacourse-study/2026-fe-react-api)
 
+##  🪾 레벨3 - 팀 프로젝트 시작
+
+> 2026.07.13 ~ 2026.09.04
+
+### 레벨 목표
+
+- 가설 검증을 통해 제품을 만들고 개선하는 것
+
+### 프로젝트
+- 피그널(개인): 1~4주차 개인 프로젝트
+- 하루들(팀): 5~8주차 팀 프로젝트 시작
+
+### 스터디
+- [이펙티브 타입스크립트 2판 스터디](https://github.com/woowacourse-study/2026-fe-effective-typescript-study)
+
+##  🪾 레벨4 - 팀 프로젝트
+
+> 2026.09.14 ~ 2026.11.13
+
+### 레벨 목표
+
+- 기술을 공부하고, 팀 프로젝트에 적용하기
+
+### 미션 기록
+| 미션                | PR & Reviews                                                     |
+| ------------------ | ---------------------------------------------------------------- |
+| 성능 오답노트    | [PR-203](https://github.com/woowacourse/perf-basecamp/pull/203)     |
+| 렌더링 Step1(Next.js)      | [PR-122](https://github.com/woowacourse/rendering-basecamp/pull/122)     |
+| 렌더링 Step2(Node SSR)     | [PR-15 ](https://github.com/woowacourse/rendering-basecamp/pull/150)     |
+| 렌더링 Step3(Hybrid)     | [PR-177](https://github.com/woowacourse/rendering-basecamp/pull/177)     |
+| 접근성 개선     | [PR-193](https://github.com/woowacourse/a11y-airline/pull/193)     |
+
+### 스터디
+- [이펙티브 타입스크립트 2판 스터디](https://github.com/woowacourse-study/2026-fe-effective-typescript-study)
+
 
 ## 🖋 블로그
 
@@ -84,3 +119,11 @@
 | 6    | [렌더 트리는 실존하는 것일까? (CRP와 실제 Blink의 차이)](https://velog.io/@jhje5595/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81)  
 | 7    | [Props Drilling 해소하기](https://velog.io/@jhje5595/Props-Drilling-%ED%95%B4%EC%86%8C%ED%95%98%EA%B8%B0) 
 | 8    | [성급한 추상화를 매우 싫어하는 사람의 Layout Component](https://velog.io/@jhje5595/%EC%84%B1%EA%B8%89%ED%95%9C-%EC%B6%94%EC%83%81%ED%99%94AHA%EB%A5%BC-%EB%A7%A4%EC%9A%B0-%EC%8B%AB%EC%96%B4%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-Layout-Component) 
+| 9    | [실제 사용자 피드백 1개를 받기까지 걸렸던 시간, 5일](https://rotket59.tistory.com/34) 
+| 10    | [AI가 짠 코드를 지우고 다시 만들었다](https://rotket59.tistory.com/35) 
+| 11    | [프론트엔드에서 멱등성 키 관리하기](https://rotket59.tistory.com/36) 
+| 12    | [프론트엔드는 혼자였지만](https://rotket59.tistory.com/37) 
+| 13    | [Single-flight 패턴으로 중복 토큰 갱신을 1번으로 줄여 강제 로그아웃 막기](https://rotket59.tistory.com/39) 
+| 14    | [useImperativeHandle 훅을 잘 쓰고 있는 줄 알았다.](https://rotket59.tistory.com/41) 
+
+
